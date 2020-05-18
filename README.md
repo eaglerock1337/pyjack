@@ -27,4 +27,4 @@ You just did. There's nothing to set up yet.
 
 ## Using the Simulator
 
-TODO: Write Simulato
+TODO: Write Simulator.
