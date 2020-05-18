@@ -27,4 +27,4 @@ You just did. There's nothing to set up yet.
 
 ## Using the Simulator
 
-#TODO: Get this simulator to work.
+TODO: Write Simulato
